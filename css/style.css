@@ -1,13 +1,13 @@
-/*Header Start*/ 
+
+
+header{
+	background-color: #121B2A;
+	box-shadow: 10px 5px #121B2C;
+}
  body{
  	margin: 0;
  	padding: 0;
  }
-header{
-	background-color: #121B2A;
-	box-shadow: 0 10px 5px #121B2C;
-}
-
 .wrapper {
 	overflow: hidden;
 	width: 80%;
@@ -172,7 +172,7 @@ header{
 
 .t_text1 h2, .t_text2 h2, .t_text3 h2{
 font-family: sans-serif;
-font-size: 25px;
+font-size: 26px;
 font-weight: 400;
 float: left;
 color: white;
